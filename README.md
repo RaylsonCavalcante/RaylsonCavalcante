@@ -6,6 +6,8 @@
 
 ![Railson GitHub stats](https://github-readme-stats.vercel.app/api?username=RaylsonCavalcante&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaylsonCavalcante)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -17,3 +19,6 @@
   <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img aling="center" alt="cordova" src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8" />
 </div>
+<br>
+
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
